@@ -1,0 +1,51 @@
+,Unnamed: 0,image_name,patient_id,sex,age_approx,anatom_site_general_challenge,target
+0,33100,./data/ISIC_9992950.jpg,IP_4525077,female,65.0,upper extremity,0
+1,33101,./data/ISIC_9994033.jpg,IP_8631184,female,65.0,lower extremity,0
+2,33102,./data/ISIC_9994122.jpg,IP_5119720,male,55.0,head/neck,0
+3,33103,./data/ISIC_9994125.jpg,IP_9450101,female,45.0,lower extremity,0
+4,33104,./data/ISIC_9994390.jpg,IP_7105810,female,65.0,lower extremity,0
+5,33105,./data/ISIC_9994768.jpg,IP_4811352,female,75.0,torso,0
+6,33106,./data/ISIC_9995140.jpg,IP_6342369,female,35.0,torso,0
+7,33107,./data/ISIC_9995166.jpg,IP_1859257,male,45.0,torso,0
+8,33108,./data/ISIC_9995691.jpg,IP_2358028,male,50.0,upper extremity,0
+9,33109,./data/ISIC_9995837.jpg,IP_7415009,female,60.0,lower extremity,0
+10,33110,./data/ISIC_9996128.jpg,IP_8191902,male,60.0,lower extremity,0
+11,33111,./data/ISIC_9996662.jpg,IP_0989858,female,30.0,torso,0
+12,33112,./data/ISIC_9997221.jpg,IP_6353955,male,55.0,,0
+13,33113,./data/ISIC_9997614.jpg,IP_1705144,female,50.0,upper extremity,0
+14,33114,./data/ISIC_9998152.jpg,IP_4356379,female,40.0,lower extremity,0
+15,33115,./data/ISIC_9998240.jpg,IP_1139701,female,45.0,torso,0
+16,33116,./data/ISIC_9998582.jpg,IP_0414408,male,50.0,lower extremity,0
+17,33117,./data/ISIC_9998682.jpg,IP_2516168,male,60.0,head/neck,1
+18,33118,./data/ISIC_9998937.jpg,IP_3091321,male,40.0,head/neck,0
+19,33119,./data/ISIC_9998965.jpg,IP_3293337,male,50.0,torso,0
+20,33120,./data/ISIC_9999127.jpg,IP_9583707,male,20.0,torso,0
+21,33121,./data/ISIC_9999134.jpg,IP_6526534,male,50.0,torso,0
+22,33122,./data/ISIC_9999320.jpg,IP_3650745,male,65.0,torso,0
+23,33123,./data/ISIC_9999515.jpg,IP_2026598,male,20.0,lower extremity,0
+24,33124,./data/ISIC_9999666.jpg,IP_7702038,male,50.0,lower extremity,0
+25,33125,./data/ISIC_9999806.jpg,IP_0046310,male,45.0,torso,0
+26,33126,./data/ISIC_0000002.jpg,,female,60.0,upper extremity,1
+27,33127,./data/ISIC_0000004.jpg,,male,80.0,posterior torso,1
+28,33128,./data/ISIC_0000013.jpg,,female,30.0,posterior torso,1
+29,33129,./data/ISIC_0000022_downsampled.jpg,,female,55.0,lower extremity,1
+30,33130,./data/ISIC_0000026_downsampled.jpg,,female,30.0,lower extremity,1
+31,33131,./data/ISIC_0000029_downsampled.jpg,,female,45.0,posterior torso,1
+32,33132,./data/ISIC_0000030_downsampled.jpg,,female,55.0,lower extremity,1
+33,33133,./data/ISIC_0000031_downsampled.jpg,,male,70.0,upper extremity,1
+34,33134,./data/ISIC_0000035_downsampled.jpg,,female,25.0,lower extremity,1
+35,33135,./data/ISIC_0000036_downsampled.jpg,,male,70.0,upper extremity,1
+36,33136,./data/ISIC_0000040_downsampled.jpg,,female,65.0,lower extremity,1
+37,33137,./data/ISIC_0000043_downsampled.jpg,,male,35.0,lower extremity,1
+38,33138,./data/ISIC_0000046_downsampled.jpg,,female,60.0,upper extremity,1
+39,33139,./data/ISIC_0000049_downsampled.jpg,,female,80.0,posterior torso,1
+40,33140,./data/ISIC_0000054_downsampled.jpg,,female,25.0,lower extremity,1
+41,33141,./data/ISIC_0000056_downsampled.jpg,,female,55.0,lower extremity,1
+42,33142,./data/ISIC_0000074.jpg,,male,25.0,lower extremity,1
+43,33143,./data/ISIC_0000077_downsampled.jpg,,male,80.0,upper extremity,1
+44,33144,./data/ISIC_0000078_downsampled.jpg,,male,85.0,anterior torso,1
+45,33145,./data/ISIC_0000139_downsampled.jpg,,,,,1
+46,33146,./data/ISIC_0000140_downsampled.jpg,,,,,1
+47,33147,./data/ISIC_0000141_downsampled.jpg,,,,,1
+48,33148,./data/ISIC_0000142_downsampled.jpg,,,,,1
+49,33149,./data/ISIC_0000143_downsampled.jpg,,,,,1
